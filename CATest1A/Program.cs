@@ -11,6 +11,7 @@ namespace CATest1A
         static void Main(string[] args)
         {
             Console.WriteLine("This is the original one.");
+            Console.WriteLine("This is first modification");
         }
     }
 }
