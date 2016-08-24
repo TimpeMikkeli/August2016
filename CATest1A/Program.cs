@@ -12,6 +12,7 @@ namespace CATest1A
         {
             Console.WriteLine("This is the original one.");
             Console.WriteLine("This is first modification");
+            Console.WriteLine("This is second modification");
         }
     }
 }
